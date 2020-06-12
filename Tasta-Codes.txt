@@ -1,0 +1,94 @@
+﻿
+Ausgewählte Android-Codes 
+Funktion 
+*#0*# 
+Öffnet das Servicemenü (überwiegend bei älteren Handys) 
+**04*alte PIN*neuePin*neue Pin# 
+Ändert die PIN 
+**042*alte PIN2*neuePIN2*neue PIN2# 
+Ändert die PIN2 
+*#004# 
+Statusabfrage der bedingten Rufumleitung 
+**004* 
+Einschalten der bedingten Rufumleitung 
+*004# 
+Aktivieren der bedingten Rufumleitung 
+#004# 
+Deaktivieren der bedingten Rufumleitung 
+##004# 
+Löschen der bedingten Rufumleitung 
+**05*PUK*neue PIN1*neue PIN1# 
+Entsperrt die PIN 
+**052*PUK2*neue PIN2*neuePIN2# 
+Entsperrt die PIN2 
+*#06# 
+Zeigt die eindeutige Gerätekennung (IMEI) an 
+*#21# 
+Statusabfrage der Rufweiterleitung 
+**21*Rufnummer# 
+Einrichten der Rufweiterleitung 
+*21# 
+Aktivieren der Rufweiterleitung 
+#21# 
+Deaktivieren der Rufweiterleitung 
+##21# 
+Löschen der Rufweiterleitung 
+*#30# 
+Status der Nummernanzeige bei eingehenden Anrufen 
+*#31# 
+Status der Nummernanzeige bei ausgehenden Anrufen 
+*#61# 
+Status der Rufumleitung, wenn das Handy nicht antwortet 
+**61*[Rufnummer]*10*[Sekunden,etwa 5, 10, 15, 20, 25 oder 30]# 
+Programmieren der Rufumleitung, wenn das Handy nicht antwortet  (ausgeschaltet, kein Netz) 
+*61# 
+Aktivieren der Rufumleitung, wenn das Handy nicht antwortet 
+#61# 
+Deaktivieren der Rufumleitung, wenn das Handy nicht antwortet 
+##61# 
+Löschen der Rufumleitung, wenn das Handy nicht antwortet 
+*100# 
+Zeigt das Prepaid-Guthaben an (bei Telekom, Vodafone, E-Plus) 
+*101# 
+Zeigt das Prepaid-Guthaben an (bei O2) 
+*102# 
+Kosten letzter abgehender Anruf/SMS (bei Vodafone) 
+*105# 
+Prepaid-Bonus-Guthaben anzeigen (bei O2) 
+*130# 
+Prepaid-Guthaben anzeigen (bei Swisscom u.a.) 
+*135# 
+Eigene Rufnummer anzeigen (bei Telekom) 
+*140# 
+Zeigt Tarifdetails an (bei O2) 
+*#0228# 
+Zeigt den Batteriestatus an (bei einigen Geräten) 
+*#*#0283#*#* 
+Audiotest für Lautsprecher und Mikrofon (für Samsung Galaxy) 
+*#0782# 
+Uhrzeit des Smartphones wird angezeigt (für Samsung Galaxy) 
+*#*#1575#*#* 
+GPS-Test (für Samsung Galaxy) 
+*2767*3855# 
+Firmware neu installieren 
+*2767*4387264636* 
+Zeigt den Produktcode des Geräts an 
+*#3282*727336*# 
+zeigt Anzahl aller Anrufe, belegten und freien  Speicherplatz, Anzahl der Kontakte (für Samsung Galaxy) 
+*#7353# 
+Schnell-Test, u.a. für Lautsprecher, Vibration, Kamera, Touch-Screen (für Samsung Galaxy) 
+*#*#8255#*#* 
+Zeigt Einstellungen für die Google-App Talk 
+*#*#7780#*#* 
+Auf Werkseinstellungen zurücksetzen 
+*#12580*369*# 
+Zeigt Systeminfos an 
+*#32489# 
+Zeigt die genutzte Geräteverschlüsselung an 
+*#*#4636#*#* 
+  - Batterieinfos anzeigen - Infos zum Handy anzeigen - WLAN-Infos anzeigen, -Status ändern - Nutzungsstatistik anzeigen   
+*#*#273283*255*663282*#*#* 
+Kamerafotos kopieren 
+*#*#197328640#*#* 
+Servicemodus aktivieren 
+
